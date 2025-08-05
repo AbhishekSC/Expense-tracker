@@ -28,6 +28,16 @@ This is a full-stack Expense Tracker web application built using the MERN stack 
 
 ---
 
+## 🔗 Postman Collection
+To easily access and test the API endpoints with payloads, use the Postman collection below:
+👉 Expense Tracker API Collection - Postman
+⚠️ https://tinyurl.com/yhk4f7wp 
+This collection contains:
+• Auth (Signup/Login)
+• Child & Parent APIs
+• Budget and Transaction APIs
+• Dashboard data
+
 ## 🔧 Installation & Setup
 
 ### 1. Clone the Repository
