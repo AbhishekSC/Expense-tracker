@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env #
+.env.local 
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+logs/
+*.log
+
+# MongoDB
+data/db/ # If you're running MongoDB locally and storing data in a 'data/db' directory
+*.mongo # Sometimes MongoDB creates temporary files with this extension
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo # For TypeScript projects
+
+# Editor/IDE specific files
+.vscode/ # VS Code settings
+.idea/ # IntelliJ IDEA settings
+.DS_Store # macOS system files
+Thumbs.db # Windows system files
+
+# Misc
+.cache/ # General cache directories
+*.tgz # npm pack output
